@@ -12,7 +12,7 @@ Bu proje, basit bir e-ticaret uygulaması için backend servisidir. Kullanıcı 
 
 1. Bu projeyi klonlayın:
 
-`git clone https://github.com/burakkepuc/ecommerce-backend.git`  
+`git clone https://github.com/Burakkepuc/Rising-ecommerce.git`  
  `cd ecommerce-backend`
 
 2. Gerekli bağımlılıkları yükleyin:
